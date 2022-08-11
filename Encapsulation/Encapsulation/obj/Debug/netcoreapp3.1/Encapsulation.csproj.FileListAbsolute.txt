@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\09.08.2022\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
