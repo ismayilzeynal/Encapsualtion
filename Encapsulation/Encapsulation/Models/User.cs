@@ -69,5 +69,20 @@ namespace Encapsulation.Models
             }
             return false;
         }
+
+        #region ctor
+        //ctor
+        public User(string Username)
+        {
+            this.Username = Username;
+        }
+        public User(string Username,string Password):this(Username)
+        {
+            this.Password = Password;
+        }
+        #endregion
+
+
+
     }
 }
